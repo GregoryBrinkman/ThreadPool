@@ -1,0 +1,10 @@
+[A couple of people are huddled around a computer. People keep jumping up and running back to their computers. Person1 & Person2 are watching from afar(water cooler??)]
+Person1 (to person2): "What's going on with 'insert name here'? People have been coming over and freaking out all day."
+
+Person2: "They're rushing to go change their passwords. 'insert name here' is howing them this website called haveibeenpwned.com."
+
+Person1: "I'm not sure I know what that is."
+
+Person2: "It's a website that that correlates email addresses with big cyber security breaches. You enter your email and it shows if you've been hacked and what could have been taken from you."
+
+Person1: "

@@ -119,9 +119,9 @@ int tpool_add_task(int newtask){
 
   pthread_mutex_lock(&pool.queue->flagLock);
   pool.queue->flag += 1;
+  pthread_mutex_unlock(&pool.queue->flagLock);
   pthread_cond_signal(&(pool.queue->condition));
   printf("thread signaled!\n");
-  pthread_mutex_unlock(&pool.queue->flagLock);
 
 
   return 1;
